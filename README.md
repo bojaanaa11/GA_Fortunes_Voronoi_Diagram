@@ -1,1 +1,1 @@
-# GA_Fortunes_Voronoi_Diagram
+# Fortunes Algorithm For Constructiing Voronoi Diagram
