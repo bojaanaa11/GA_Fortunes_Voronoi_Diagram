@@ -1,1 +1,1 @@
-# Fortunes Algorithm For Constructiing Voronoi Diagram
+# Fortunes Algorithm For Constructing Voronoi Diagram
